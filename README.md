@@ -17,3 +17,6 @@ Keshlashning foydali tomonlari:
 
 
 #2 Unit testlari nima va ular nima uchun muhim?
+
+
+#3 Django ORM da select_related va prefetch_related ning maqsadi nima va ular qanday farq qiladi? 
