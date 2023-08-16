@@ -18,7 +18,7 @@ Keshlashning foydali tomonlari:
 
 #2 Unit testlari nima va ular nima uchun muhim?
 
-   Unit Test bu dasturni eng kichik komponentlarini ajratib olgan holda ularni to’g’ri ishlashini tekshirish. Bu komponentchalar odatda juda kichik va mustaqil bo’ladi. Ular birgalikda katta dasturni tashkil qiladi. Ushbu kichik komponent va qismlarni ajratib olib test qilish orqali ulardagi xatoliklar juda erta aniqlanadi va bu o’z navbatida katta vaqt va pul tejalishiga olib keladi.
+   Unit Test bu dasturni eng kichik komponentlarini ajratib olgan holda ularni to’g’ri ishlashini tekshirish. Bu komponentchalar odatda juda kichik va mustaqil bo’ladi. Ular birgalikda katta dasturni tashkil qiladi. Ushbu kichik komponent va qismlarni ajratib olib test qilish orqali ulardagi xatoliklar juda erta aniqlanadi va bu o’z navbatida katta vaqt va pul tejalishiga olib keladi. Unit testlar dasturlashda yozilgan kodni avtomatik ravishda tekshirish uchun ishlatiladigan test toifasi hisoblanadi. Bu testlar, biror bir dastur qismi (funktsiya, metod yoki klass)ni o'zgaruvchilarni va boshqa inputlarni berish orqali ishlatib, natijani tekshirish uchun yoziladi. 
 
 
 
