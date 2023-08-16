@@ -1,7 +1,6 @@
 # exam-projects
 
-#1
-Keshlash (caching) nima va nega bizga keshlash kerak?
+#1Keshlash (caching) nima va nega bizga keshlash kerak?
 
    Keshlash  — bu ma'lumotlarni server tomonida saqlashdir.
    Keshlangan  ma'lumotlarni keyinchalik serverdan talab qilsak bizga ma'lumotni tezroq qaytaradi.
@@ -16,5 +15,5 @@ Keshlashning foydali tomonlari:
       ularga internet orqali so'rov yuborish shart emas.
       Bu esa foydalanuvchilarga sayt yoki dastur bilan ishlashda tezlikni ta'minlaydi.
 
-#2 
-Unit testlari nima va ular nima uchun muhim?
+
+#2 Unit testlari nima va ular nima uchun muhim?
