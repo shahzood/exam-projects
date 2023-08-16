@@ -22,9 +22,10 @@ Keshlashning foydali tomonlari:
 Xatolarni aniqlash va to'g'ri ishlashni ta'minlash: Unit testlar, kodni to'g'ri ishlayotgani va kiritilgan inputlarga qarab to'g'ri natijalar qaytarayotgani haqida ko'rib chiqishga yordam beradi. Agar kod qaytarishi kerak bo'lgan natijalarda xato bo'lsa, test natijalarda xatoni aniqlab beradi.
 
 Unit testlar nima uchun muhim:
+
 Refaktoringni osonlashtirish: Kodni o'zgartirish yoki yangi funksiyalarni qo'shish vaqtida, mavjud unit testlar kodni to'g'ri ishlashini ta'minlash uchun yordam beradi. Yangi o'zgarishlar qilgandan so'ng testlarni qayta ishga tushirib, kodni to'g'ri ishlovchi ekanligini tekshirishingiz mumkin.
 
-Timelarni qisqartirish: Qo'shimcha xatolar aniqlash va tuzatish jarayonida vaqtni va resurslarni sarflashni kamaytirish uchun unit testlar ishlatiladi. Xatoni aniqlab berish va tuzatish jarayonini tezlashtirish uchun manbaa sifatida foydalanish mumkin.
+Vaqtni qisqartirish: Qo'shimcha xatolarni aniqlash va tuzatish jarayonida vaqtni va resurslarni sarflashni kamaytirish uchun unit testlar ishlatiladi. Xatoni aniqlab berish va tuzatish jarayonini tezlashtirish uchun manba sifatida foydalanish mumkin.
 
 Kodningni dokumentlash: Unit testlar kodningizning qanday qilib ishlayotganini dokumentlashtiradi. Boshqa dasturchilar va jamoatga kodni tushunarli shaklda tavsiflash uchun unit testlardan foydalanishingiz mumkin.
 
@@ -34,6 +35,7 @@ Yakuniy natijalar yoki interfeyslarni ta'minlash: Agar dasturda o'zgarishlar kir
 
 Dastur qismi yoki modulni isolatsiyalash: Unit testlar, biror bir modulni o'zining foydalanilishi bo'lmagan boshqa modullardan isolatsiyalashga imkon beradi. Bu, qo'shimcha xatolarni aniqlash va tuzatish jarayonini osonlashtiradi.
 
+Barcha bu sabablarga ko'ra, unit testlar dasturlash jarayonida muhim ahamiyatga ega bo'lib, kodni to'g'ri ishlatishni ta'minlaydi va dasturning sifatini yuqori ko'tarishga yordam beradi.
 
 
 
