@@ -15,3 +15,6 @@ Keshlashning foydali tomonlari:
    3. Internet trafikni kamaytirish: Keshlangan ma'lumotlar lokal saqlanganligi uchun
       ularga internet orqali so'rov yuborish shart emas.
       Bu esa foydalanuvchilarga sayt yoki dastur bilan ishlashda tezlikni ta'minlaydi.
+
+#2 
+Unit testlari nima va ular nima uchun muhim?
